@@ -1,0 +1,231 @@
+{
+  "name": "KI-Magazin",
+  "untertitel": "Die KI-Welt, täglich auf Deutsch.",
+  "ausgabe": "2026-11-12",
+  "briefing": "Die Krise um Nvidia-Chef Jensen Huang dominiert den Tag: Berichten zufolge bereitet der Aufsichtsrat seine Absetzung vor, die Aktie gibt nach und der US-Kongress will ihn befragen. Bei OpenAI überschreitet der Quartalsumsatz erstmals 10 Milliarden Dollar, bei weiterhin hohen Verlusten. Anthropic baut Claude zur Büro-Suite aus und bereitet seinen Börsengang vor. Google DeepMind zeigt, wie KI die Sicherheit von Signals Verschlüsselung mathematisch beweisen kann.",
+  "artikel": [
+    {
+      "titel": "Nvidia-Aufsichtsrat bereitet laut Berichten Absetzung von Jensen Huang vor",
+      "zusammenfassung": "Nach Berichten über eine zweite Affäre soll der Nvidia-Aufsichtsrat die Entlassung von Gründer und CEO Jensen Huang vorbereiten, der das Unternehmen seit 33 Jahren führt. Die Aktie gab nach. Zuvor hatte Huang eine Affäre mit einer Frau eingeräumt, die als mutmaßliche chinesische Agentin gilt.",
+      "warum_wichtig": "Nvidia liefert die wichtigsten Chips für den KI-Boom – ein Führungswechsel könnte die ganze Branche und das KI-Rennen zwischen USA und China betreffen.",
+      "rubrik": "Business",
+      "quelle": "TechCrunch",
+      "quelle_url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "datum": "2026-11-11",
+      "top": true,
+      "neu": true
+    },
+    {
+      "titel": "OpenAI knackt erstmals 10 Milliarden Dollar Quartalsumsatz",
+      "zusammenfassung": "OpenAI hat seinen Quartalsumsatz laut Berichten um fast 50 Prozent auf rund 10 Milliarden US-Dollar gesteigert, nach 6,7 Milliarden im zweiten Quartal. Gleichzeitig schreibt das Unternehmen weiterhin Verluste in Milliardenhöhe.",
+      "warum_wichtig": "Die Zahlen zeigen, wie schnell das Geschäft mit KI wächst – aber auch, wie teuer es noch ist.",
+      "rubrik": "Business",
+      "quelle": "heise online",
+      "quelle_url": "https://www.heise.de/news/OpenAI-Umsatz-zuletzt-stark-gewachsen-Milliardenverluste-noch-leicht-11520086.html",
+      "datum": "2026-11-11",
+      "top": true,
+      "neu": true
+    },
+    {
+      "titel": "Anthropic baut Claude zur Büro-Suite aus",
+      "zusammenfassung": "Anthropic erweitert Claude um eigene Büro-Anwendungen, darunter eine Tabellenkalkulation und Whiteboards. Claude soll damit zu einer Arbeitsplattform für alltägliche Büroaufgaben werden.",
+      "warum_wichtig": "Anthropic tritt damit direkter gegen etablierte Office-Anbieter und gegen OpenAI an.",
+      "rubrik": "Tools & Produkte",
+      "quelle": "heise online",
+      "quelle_url": "https://www.heise.de/news/Office-Offensive-Claude-erhaelt-eigene-Tabellenkalkulation-und-Whiteboards-11520210.html",
+      "datum": "2026-11-11",
+      "top": true,
+      "neu": true
+    },
+    {
+      "titel": "Google DeepMind beweist Sicherheit von Signals Verschlüsselung mit KI",
+      "zusammenfassung": "Mit dem System AlphaProof Code hat Google DeepMind zentrale Teile von Signals Verschlüsselung mathematisch verifiziert. Das Projekt dauerte vier Wochen statt der sonst üblichen Jahre.",
+      "warum_wichtig": "KI könnte formale Sicherheitsbeweise für Software deutlich praktikabler machen.",
+      "rubrik": "Forschung",
+      "quelle": "The Decoder",
+      "quelle_url": "https://the-decoder.de/google-deepminds-alphaproof-code-beweist-mathematisch-dass-signals-verschluesselung-sicher-ist/",
+      "datum": "2026-11-11",
+      "neu": true
+    },
+    {
+      "titel": "Gemini Decisions: Google bringt KI-Modell für schnelle Entscheidungen",
+      "zusammenfassung": "Google stellt die Gemini Decisions API vor. Das spezialisierte Modell erzeugt keinen Fließtext, sondern trifft schnelle, kalibrierte Entscheidungen, etwa Ja/Nein-Antworten, Auswahlen oder Bewertungen nach Kriterien, und verarbeitet dabei auch Bilder.",
+      "warum_wichtig": "Nach anderen Anbietern steigt auch Google in die neue Kategorie der Entscheidungsmodelle ein.",
+      "rubrik": "Modelle",
+      "quelle": "Google AI Blog",
+      "quelle_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "datum": "2026-11-11",
+      "neu": true
+    },
+    {
+      "titel": "Anthropic-Börsengang: Gründer verkaufen Aktien für je rund 250 Millionen Dollar",
+      "zusammenfassung": "Anthropic bereitet seinen Börsengang an der Nasdaq vor und hat die Roadshow für Investoren gestartet. Alle sieben Mitgründer wollen jeweils gleich viele Aktien verkaufen, was jedem etwa 250 Millionen Dollar einbringen würde.",
+      "warum_wichtig": "Der Börsengang eines der führenden KI-Labore gilt als Gradmesser für die Bewertung der gesamten Branche.",
+      "rubrik": "Business",
+      "quelle": "TechCrunch",
+      "quelle_url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "datum": "2026-11-10",
+      "neu": true
+    },
+    {
+      "titel": "TSMC investiert eine Milliarde Dollar in Anthropic und OpenAI",
+      "zusammenfassung": "Der taiwanische Chiphersteller TSMC beteiligt sich mit insgesamt einer Milliarde US-Dollar an Anthropic und OpenAI.",
+      "warum_wichtig": "Ein weiteres Beispiel für die gegenseitigen Finanzierungen in der KI-Branche, bei denen Zulieferer in ihre eigenen Kunden investieren.",
+      "rubrik": "Business",
+      "quelle": "Ars Technica",
+      "quelle_url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+      "datum": "2026-11-11",
+      "neu": true
+    },
+    {
+      "titel": "ChatGPT bekommt Unternehmensprofile und verifizierte „Business Agents“",
+      "zusammenfassung": "Unternehmen können in ChatGPT nun eigene Profile anlegen, ihre Informationen verwalten und sehen, wie sie dort dargestellt werden. Zusätzlich sollen verifizierte Business Agents im Namen von Marken mit Nutzern chatten, etwa beim Preisvergleich.",
+      "warum_wichtig": "ChatGPT wird damit zu einem neuen Kanal, über den Firmen Kunden erreichen – ähnlich wie Google-Unternehmensprofile.",
+      "rubrik": "Tools & Produkte",
+      "quelle": "OpenAI",
+      "quelle_url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "datum": "2026-11-10",
+      "neu": true
+    },
+    {
+      "titel": "Gemini Robotics 2.5: Roboter sortiert Metallteile bei Mercedes-Benz",
+      "zusammenfassung": "Google DeepMind hat Gemini Robotics 2.5 vorgestellt, das bei manchen Aufgaben bis zu doppelt so erfolgreich sein soll wie der Vorgänger. Bei Mercedes-Benz sortierte das System Metallteile mit 96 Prozent Erfolg. Dazu kommt ein offener Sicherheits-Benchmark namens ASIMOV-jailbreak.",
+      "warum_wichtig": "KI-gesteuerte Roboter rücken in echte Industrieanwendungen vor.",
+      "rubrik": "Modelle",
+      "quelle": "heise online",
+      "quelle_url": "https://www.heise.de/news/Gemini-Robotics-2-5-sortiert-Metallteile-bei-Mercedes-Benz-mit-96-Prozent-Erfolg-11520722.html",
+      "datum": "2026-11-11",
+      "neu": true
+    },
+    {
+      "titel": "Grok Build: Zehntausende KI-Apps legten vertrauliche Daten offen",
+      "zusammenfassung": "Eine Sicherheitsfirma fand über 35.000 mit Grok Build erstellte Apps, die ohne Anmeldung für jeden zugänglich waren. Darunter waren Patientendaten sowie interne Informationen von SpaceXSI und X.",
+      "warum_wichtig": "Der Fall zeigt die Sicherheitsrisiken, wenn Apps per KI erstellt und ohne Prüfung veröffentlicht werden.",
+      "rubrik": "Recht & Politik",
+      "quelle": "The Decoder",
+      "quelle_url": "https://the-decoder.de/grok-apps-legen-interna-von-spacexsi-und-x-sowie-patientendaten-offen/",
+      "datum": "2026-11-11",
+      "neu": true
+    },
+    {
+      "titel": "DeepL Voice überträgt jetzt auch Tonfall und Emotion",
+      "zusammenfassung": "Mit dem neuen Stimm-Modell Aure sollen Echtzeit-Übersetzungen von DeepL Voice näher am Original klingen. Tonfall, Emotion und Sprechtempo werden in die Zielsprache übertragen.",
+      "warum_wichtig": "Der Kölner Anbieter DeepL baut seine Position bei KI-Übersetzung aus Europa heraus weiter aus.",
+      "rubrik": "Tools & Produkte",
+      "quelle": "The Decoder",
+      "quelle_url": "https://the-decoder.de/deepl-voice-uebertraegt-mit-aure-jetzt-auch-tonfall-und-sprechtempo-in-andere-sprachen/",
+      "datum": "2026-11-11",
+      "neu": true
+    },
+    {
+      "titel": "Helsing stellt Rüstungs-KI-Plattform Clarity vor",
+      "zusammenfassung": "Das Münchner Unternehmen Helsing hat mit Clarity eine KI-Plattform für das Militär vorgestellt. KI-Agenten verdichten darin Sensordaten zu Zielvorschlägen für Waffensysteme. Clarity soll Europas Antwort auf Palantirs Maven werden.",
+      "warum_wichtig": "Europa baut eigene militärische KI-Systeme auf – mit großen ethischen Fragen.",
+      "rubrik": "Recht & Politik",
+      "quelle": "heise online",
+      "quelle_url": "https://www.heise.de/news/Muenchner-Ruestungs-KI-Helsing-stellt-Plattform-Clarity-vor-11521399.html",
+      "datum": "2026-11-11",
+      "neu": true
+    },
+    {
+      "titel": "Münchner Robotik-Firma Agile Robots mit 8,5 Milliarden Dollar bewertet",
+      "zusammenfassung": "Das deutsche Robotikunternehmen Agile Robots erhält in einer neuen Finanzierungsrunde 500 Millionen US-Dollar und wird damit mit 8,5 Milliarden Dollar bewertet.",
+      "warum_wichtig": "Eines der wertvollsten deutschen KI- und Robotik-Start-ups.",
+      "rubrik": "Business",
+      "quelle": "heise online",
+      "quelle_url": "https://www.heise.de/news/Muenchner-Start-up-Agile-Robots-erhaelt-500-Millionen-Dollar-11521653.html",
+      "datum": "2026-11-12",
+      "neu": true
+    },
+    {
+      "titel": "Nahles: 800.000 Jobs fallen durch KI weg",
+      "zusammenfassung": "Andrea Nahles, Chefin der Bundesagentur für Arbeit, rechnet damit, dass durch Künstliche Intelligenz rund 800.000 Arbeitsplätze wegfallen. Gleichzeitig sollen ähnlich viele neue entstehen.",
+      "warum_wichtig": "Eine offizielle Einschätzung, wie stark KI den deutschen Arbeitsmarkt verändern wird.",
+      "rubrik": "Gesellschaft",
+      "quelle": "heise online",
+      "quelle_url": "https://www.heise.de/news/Nahles-800-000-Jobs-werden-aufgrund-von-KI-wegfallen-11520276.html",
+      "datum": "2026-11-11",
+      "neu": true
+    },
+    {
+      "titel": "New Yorks KI-Sicherheitsgesetz tritt in Kraft",
+      "zusammenfassung": "New York bereitet die Durchsetzung seines umfassenden KI-Sicherheitsgesetzes vor. Große Entwickler wie OpenAI und Anthropic müssen sich registrieren und unterliegen neuer Aufsicht.",
+      "warum_wichtig": "Einer der ersten US-Bundesstaaten mit verbindlichen Regeln für die größten KI-Labore.",
+      "rubrik": "Recht & Politik",
+      "quelle": "TechCrunch",
+      "quelle_url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "datum": "2026-11-10",
+      "neu": true
+    },
+    {
+      "titel": "Macron fordert internationale KI-Sicherheitsstandards",
+      "zusammenfassung": "Frankreichs Präsident Emmanuel Macron hat internationale Akteure aufgerufen, gemeinsame Sicherheitsstandards für Künstliche Intelligenz zu schaffen.",
+      "warum_wichtig": "Europa drängt auf globale Regeln, während die USA und China um die Führung im KI-Rennen konkurrieren.",
+      "rubrik": "Recht & Politik",
+      "quelle": "heise online",
+      "quelle_url": "https://www.heise.de/news/KI-Regulierung-Macron-draengt-auf-internationale-Sicherheitsstandards-11518762.html",
+      "datum": "2026-11-10",
+      "neu": true
+    },
+    {
+      "titel": "Meta Muse Ember soll KI-Agenten günstiger machen",
+      "zusammenfassung": "Meta hat mit Muse Ember sein kleinstes KI-Modell vorgestellt. Es soll den Betrieb von KI-Agenten deutlich günstiger machen.",
+      "warum_wichtig": "Kleine, günstige Modelle sind entscheidend, damit KI-Agenten im Alltag bezahlbar werden.",
+      "rubrik": "Modelle",
+      "quelle": "heise online",
+      "quelle_url": "https://www.heise.de/news/Meta-Muse-Ember-Neues-KI-Modell-soll-Agenten-guenstiger-machen-11518746.html",
+      "datum": "2026-11-10",
+      "neu": true
+    },
+    {
+      "titel": "AlphaGenome 2: DeepMind-Modell erforscht genetische Ursachen von Krankheiten",
+      "zusammenfassung": "Forschende von Google DeepMind haben AlphaGenome 2 vorgestellt. Das Modell soll zeigen, wie sich Veränderungen in der DNA auf verschiedene Zelltypen auswirken.",
+      "warum_wichtig": "Solche Modelle können die Suche nach Krankheitsursachen und neuen Therapien beschleunigen.",
+      "rubrik": "Forschung",
+      "quelle": "The Verge",
+      "quelle_url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+      "datum": "2026-11-11",
+      "neu": true
+    },
+    {
+      "titel": "United und eBay sperren persönliche KI-Agenten aus",
+      "zusammenfassung": "Die Fluggesellschaft United erlaubt persönlichen KI-Assistenten nicht, Tickets zu buchen, und nennt Datenschutz- und Regulierungsgründe. Auch eBay scheint KI-Agenten, darunter Metas Muse, vom Stöbern auf der Plattform auszuschließen.",
+      "warum_wichtig": "Große Plattformen wehren sich gegen KI-Agenten, die im Auftrag von Nutzern einkaufen.",
+      "rubrik": "Gesellschaft",
+      "quelle": "The Verge",
+      "quelle_url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "datum": "2026-11-11",
+      "neu": true
+    },
+    {
+      "titel": "CERT-EU warnt vor Angriffen mit autonomen KI-Agenten",
+      "zusammenfassung": "Das IT-Sicherheitsteam der EU-Institutionen beobachtet eine rapide Zunahme von Cyberangriffen mit Agenten-Frameworks wie Artex. Autonome KI-Agenten übernehmen dabei zunehmend komplexe Angriffsschritte.",
+      "warum_wichtig": "KI macht Cyberangriffe schneller und automatisierter – auch kleinere Unternehmen sind betroffen.",
+      "rubrik": "Recht & Politik",
+      "quelle": "heise online",
+      "quelle_url": "https://www.heise.de/news/CERT-EU-warnt-Rapide-Zunahme-der-Angriffe-mit-Agenten-Frameworks-wie-Artex-11520602.html",
+      "datum": "2026-11-11",
+      "neu": true
+    },
+    {
+      "titel": "Adobe Max: KI-Agenten sollen Photoshop und Premiere Pro steuern",
+      "zusammenfassung": "Adobe bringt mehr KI in die Creative Cloud: Ein KI-Agent soll Programme wie Photoshop und Premiere Pro steuern. Außerdem kooperiert Adobe mit Google, damit sich Adobe-Werkzeuge direkt in Google-Apps und Gemini nutzen lassen.",
+      "warum_wichtig": "Kreativ-Software wird zunehmend per Sprache und KI-Agent bedient statt per Klick.",
+      "rubrik": "Tools & Produkte",
+      "quelle": "heise online",
+      "quelle_url": "https://www.heise.de/news/Adobe-Max-KI-Agenten-sollen-Photoshop-Premiere-Pro-und-Co-steuern-11517366.html",
+      "datum": "2026-11-10",
+      "neu": true
+    },
+    {
+      "titel": "KI-Ausgaben von US-Firmen wachsen nur noch langsam",
+      "zusammenfassung": "Laut dem Ramp-AI-Index stiegen die KI-Ausgaben von US-Unternehmen im Oktober 2026 nur noch um 1,65 Prozent. Neue Konkurrenz erhöht zusätzlich den Druck auf die Anbieter.",
+      "warum_wichtig": "Ein mögliches Zeichen, dass das Wachstum bei Firmenkunden abflacht.",
+      "rubrik": "Business",
+      "quelle": "The Decoder",
+      "quelle_url": "https://the-decoder.de/ki-ausgaben-von-us-firmen-wachsen-nur-noch-langsam-und-neue-konkurrenz-verschaerft-den-druck/",
+      "datum": "2026-11-11",
+      "neu": true
+    }
+  ]
+}

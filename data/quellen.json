@@ -1,0 +1,22 @@
+{
+  "hinweis": "Quellen für die tägliche Routine. 'feed' = RSS/Atom-Feed, 'seite' = News-Seite ohne Feed (wird direkt gelesen).",
+  "quellen": [
+    { "name": "OpenAI", "feed": "https://openai.com/news/rss.xml" },
+    { "name": "Anthropic", "seite": "https://www.anthropic.com/news" },
+    { "name": "Google AI Blog", "feed": "https://blog.google/technology/ai/rss/" },
+    { "name": "Google DeepMind", "feed": "https://deepmind.google/blog/rss.xml" },
+    { "name": "Meta AI", "seite": "https://ai.meta.com/blog/" },
+    { "name": "Mistral AI", "seite": "https://mistral.ai/news" },
+    { "name": "Hugging Face", "feed": "https://huggingface.co/blog/feed.xml" },
+    { "name": "TechCrunch", "feed": "https://techcrunch.com/category/artificial-intelligence/feed/" },
+    { "name": "The Verge", "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml" },
+    { "name": "MIT Technology Review", "feed": "https://www.technologyreview.com/topic/artificial-intelligence/feed" },
+    { "name": "Ars Technica", "feed": "https://arstechnica.com/ai/feed/" },
+    { "name": "Wired", "feed": "https://www.wired.com/feed/tag/ai/latest/rss" },
+    { "name": "The Decoder", "feed": "https://the-decoder.de/feed/" },
+    { "name": "heise online", "feed": "https://www.heise.de/thema/Kuenstliche-Intelligenz.xml" },
+    { "name": "t3n", "feed": "https://t3n.de/tag/kuenstliche-intelligenz/rss.xml" },
+    { "name": "Simon Willison", "feed": "https://simonwillison.net/atom/everything/" },
+    { "name": "Synced", "feed": "https://syncedreview.com/feed/" }
+  ]
+}
