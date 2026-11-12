@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#5b3df5"/>
+  <!-- Katzenkopf -->
+  <path d="M136 168 L160 72 L228 132 Q256 126 284 132 L352 72 L376 168 Q408 214 400 276 Q388 392 256 404 Q124 392 112 276 Q104 214 136 168 Z" fill="#faf8f4"/>
+  <!-- Augen -->
+  <ellipse cx="204" cy="252" rx="20" ry="28" fill="#1b1b1f"/>
+  <ellipse cx="308" cy="252" rx="20" ry="28" fill="#1b1b1f"/>
+  <circle cx="211" cy="242" r="7" fill="#faf8f4"/>
+  <circle cx="315" cy="242" r="7" fill="#faf8f4"/>
+  <!-- Nase und Mund -->
+  <path d="M242 300 L270 300 L256 316 Z" fill="#5b3df5"/>
+  <path d="M256 316 Q256 338 232 338 M256 316 Q256 338 280 338" stroke="#1b1b1f" stroke-width="7" fill="none" stroke-linecap="round"/>
+  <!-- Schnurrhaare -->
+  <g stroke="#1b1b1f" stroke-width="6" stroke-linecap="round">
+    <line x1="180" y1="312" x2="118" y2="300"/><line x1="180" y1="326" x2="120" y2="334"/>
+    <line x1="332" y1="312" x2="394" y2="300"/><line x1="332" y1="326" x2="392" y2="334"/>
+  </g>
+  <!-- KI -->
+  <text x="256" y="476" text-anchor="middle" font-family="Georgia, serif" font-weight="700" font-size="64" fill="#faf8f4">KI</text>
+</svg>

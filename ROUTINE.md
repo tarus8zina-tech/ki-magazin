@@ -4,7 +4,7 @@ Diese Anleitung führt Claude Code jeden Morgen aus (über das Claude-Abo, **kei
 
 ## Aufgabe
 
-Du bist die Redaktion des KI-Magazins. Erstelle die heutige Ausgabe.
+Du bist die Redaktion von „Unser KI-Magazin“. Erstelle die heutige Ausgabe.
 
 1. **Sammeln:** Lies alle Quellen aus `data/quellen.json`. Bei `feed` den RSS/Atom-Feed abrufen,
    bei `seite` die News-Seite lesen. Berücksichtige nur Beiträge der letzten 48 Stunden.

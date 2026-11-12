@@ -1,4 +1,4 @@
-# KI-Magazin
+# Unser KI-Magazin
 
 Tägliches Online-Magazin mit KI-Nachrichten aus aller Welt, auf Deutsch zusammengefasst.
 
