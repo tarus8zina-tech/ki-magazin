@@ -5,6 +5,37 @@
   "briefing": "Die Krise um Nvidia-Chef Jensen Huang dominiert den Tag: Berichten zufolge bereitet der Aufsichtsrat seine Absetzung vor, die Aktie gibt nach und der US-Kongress will ihn befragen. Bei OpenAI überschreitet der Quartalsumsatz erstmals 10 Milliarden Dollar, bei weiterhin hohen Verlusten. Anthropic baut Claude zur Büro-Suite aus und bereitet seinen Börsengang vor. Google DeepMind zeigt, wie KI die Sicherheit von Signals Verschlüsselung mathematisch beweisen kann.",
   "artikel": [
     {
+      "titel": "ChatGPT Ads: Bilder-Werbung, 89 Länder und 1 Milliarde Dollar Umsatz",
+      "zusammenfassung": "OpenAI baut Werbung in ChatGPT zügig aus: Seit dem 5. Oktober testet das Unternehmen ein neues visuelles Anzeigenformat, das während der Bildgenerierung erscheint. Inzwischen läuft ChatGPT Ads in 89 Ländern, in Deutschland seit dem 24. August.",
+      "warum_wichtig": "ChatGPT wird zum neuen Werbekanal neben Google und Meta – für Marketing und Online-Shops eine Plattform, die man jetzt kennen sollte.",
+      "rubrik": "Business",
+      "schwerpunkt": true,
+      "dauerhaft": true,
+      "datum": "2026-11-12",
+      "neu": true,
+      "bericht": [
+        "## Was OpenAI vorgestellt hat",
+        "Am 5. Oktober 2026 hat OpenAI ein neues visuelles Anzeigenformat für ChatGPT angekündigt. Die Bilder sollen zeigen, wie Produkte genutzt werden oder welche Erlebnisse sie ermöglichen, damit sich Nutzer vorstellen können, wie ein Angebot in ihr Leben passt. Getestet wird das Format zunächst bei Nutzern der Pläne Free und Go, und zwar während ChatGPT ein Bild erzeugt. Die Tests starteten im Oktober in den USA mit einer ersten Gruppe von Werbetreibenden.",
+        "OpenAI betont, dass Anzeigen klar gekennzeichnet und vom erzeugten Bild getrennt bleiben. Wie bei den bisherigen Formaten soll Werbung die Antworten von ChatGPT nicht beeinflussen.",
+        "## Messung: Wie Werbetreibende den Erfolg sehen",
+        "Gleichzeitig hat OpenAI die Messwerkzeuge ausgebaut. Über Integrationen mit Hightouch, Tealium und LiveRamp können Firmen Conversion-Daten aus ihren Systemen an ChatGPT Ads übermitteln. Für Attribution in Web und Apps arbeitet OpenAI unter anderem mit AppsFlyer, Adjust, Triple Whale, Northbeam, Branch und Kochava zusammen. Mit Haus, Measured und WorkMagic werden geografische Experimente getestet, um die tatsächliche Zusatzwirkung (Inkrementalität) der Anzeigen zu messen – nach OpenAIs eigener Aussage steht diese Arbeit noch am Anfang.",
+        "OpenAI nennt erste Ergebnisse von Partnern: Laut DV Rockerbox lagen die Kosten pro Akquisition für WeightWatchers um 15,3 Prozent unter dem Vergleichswert für bezahlte Suchanzeigen. Bei Portland Leather waren laut Triple Whale 93 Prozent der Besucher über ChatGPT Ads zum ersten Mal auf der Website. Diese Zahlen stammen von OpenAI und seinen Partnern, unabhängig überprüft sind sie nicht.",
+        "## Markensicherheit",
+        "Ein automatisches System prüft, ob ein Gespräch für Werbung geeignet ist. Anzeigen sollen nicht in sensiblen Situationen erscheinen, etwa wenn Menschen emotional verletzlich sind. Qualifizierte Werbetreibende können zudem „Negative Ausdrücke“ hinterlegen, um bestimmte Umfelder auszuschließen. Mit DoubleVerify und Integral Ad Science laufen Pilotprojekte, die die Schutzmaßnahmen unabhängig bewerten sollen, ohne auf echte Gespräche zuzugreifen.",
+        "## Wo es ChatGPT-Werbung gibt",
+        "Am 21. Oktober kündigte OpenAI an, ChatGPT Ads auf 26 weitere Länder auszuweiten, darunter Argentinien, Peru, Nigeria, Südafrika und die Ukraine – insgesamt sind es damit 89 Länder. Laut CNBC erreichte das Werbegeschäft im August eine hochgerechnete Jahresumsatzrate von 1 Milliarde US-Dollar (März: 100 Millionen), und über 100.000 Werbetreibende haben bereits Kampagnen geschaltet.",
+        "In Deutschland und Österreich startete die Werbung laut Medienberichten am 24. August 2026 als Teil von 31 europäischen Märkten. Die Anzeigen erscheinen unter den Antworten und sind als „Sponsored“ gekennzeichnet. Zum Start waren sie in Europa nicht personalisiert: Frühere Chats und gespeicherte Erinnerungen fließen nicht ein, der Inhalt des aktuellen Gesprächs kann die Auswahl aber beeinflussen. In temporären Chats gibt es keine Werbung.",
+        "## Wer Werbung sieht",
+        "Anzeigen erscheinen nur in den Plänen Free und Go. Plus, Pro, Business, Enterprise und Education bleiben werbefrei. Unternehmen können sich unter ads.openai.com als Werbetreibende registrieren."
+      ],
+      "quellen": [
+        { "name": "OpenAI (5. Okt.)", "url": "https://openai.com/de-DE/index/new-chatgpt-ads-format-and-measurement/" },
+        { "name": "CNBC (21. Okt.)", "url": "https://www.cnbc.com/2026/10/21/openai-chatgpt-ads-26-countries.html" },
+        { "name": "W&V: Start in Deutschland", "url": "https://www.wuv.de/themen/ki-tech/so-funktionieren-chatgpt-ads-zum-start-in-deutschland" },
+        { "name": "Verbraucherzentrale NRW", "url": "https://www.verbraucherzentrale.nrw/wissen/digitale-welt/onlinedienste/werbung-in-chatgpt-worauf-sie-jetzt-achten-sollten-126563" }
+      ]
+    },
+    {
       "titel": "Nvidia-Aufsichtsrat bereitet laut Berichten Absetzung von Jensen Huang vor",
       "zusammenfassung": "Nach Berichten über eine zweite Affäre soll der Nvidia-Aufsichtsrat die Entlassung von Gründer und CEO Jensen Huang vorbereiten, der das Unternehmen seit 33 Jahren führt. Die Aktie gab nach. Zuvor hatte Huang eine Affäre mit einer Frau eingeräumt, die als mutmaßliche chinesische Agentin gilt.",
       "warum_wichtig": "Nvidia liefert die wichtigsten Chips für den KI-Boom – ein Führungswechsel könnte die ganze Branche und das KI-Rennen zwischen USA und China betreffen.",

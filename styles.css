@@ -78,6 +78,12 @@ a { color: inherit; }
 .card .source { margin-top: auto; padding-top: 6px; font-size: 0.85rem; }
 .card .source a { color: var(--accent); text-decoration: none; font-weight: 500; }
 .card .source a:hover { text-decoration: underline; }
+.card.feature { border-color: var(--accent); }
+.report { border-top: 1px solid var(--line); padding-top: 10px; }
+.report summary { cursor: pointer; color: var(--accent); font-weight: 600; font-size: 0.95rem; }
+.report[open] summary { margin-bottom: 8px; }
+.report h4 { font-family: var(--serif); font-size: 1.05rem; margin: 14px 0 4px; }
+.report p { margin: 0 0 8px; }
 .badge { background: var(--accent-soft); color: var(--accent); padding: 1px 8px; border-radius: 999px; font-weight: 600; }
 
 .footer { border-top: 1px solid var(--line); color: var(--muted); font-size: 0.85rem; padding: 20px 0 32px; }

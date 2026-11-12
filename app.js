@@ -24,6 +24,7 @@ function card(a) {
   el.className = "card";
   el.innerHTML = `
     <div class="meta">
+      ${a.schwerpunkt ? '<span class="badge">Schwerpunkt</span>' : ""}
       <span class="rubric">${escapeHtml(a.rubrik)}</span>
       <span>${formatDate(a.datum)}</span>
       ${a.neu ? '<span class="badge">Neu</span>' : ""}
@@ -31,8 +32,12 @@ function card(a) {
     <h3>${escapeHtml(a.titel)}</h3>
     <p>${escapeHtml(a.zusammenfassung)}</p>
     ${a.warum_wichtig ? `<p class="why"><strong>Warum wichtig:</strong> ${escapeHtml(a.warum_wichtig)}</p>` : ""}
-    <div class="source">Quelle: <a href="${escapeHtml(a.quelle_url)}" target="_blank" rel="noopener">${escapeHtml(a.quelle)} ↗</a></div>
+    ${a.bericht ? `<details class="report"><summary>Ganzen Bericht lesen</summary>${a.bericht.map((b) =>
+      b.startsWith("## ") ? `<h4>${escapeHtml(b.slice(3))}</h4>` : `<p>${escapeHtml(b)}</p>`).join("")}</details>` : ""}
+    <div class="source">${(a.quellen || [{ name: a.quelle, url: a.quelle_url }]).map((q, i) =>
+      `${i ? " · " : "Quelle: "}<a href="${escapeHtml(q.url)}" target="_blank" rel="noopener">${escapeHtml(q.name)} ↗</a>`).join("")}</div>
   `;
+  if (a.schwerpunkt) el.classList.add("feature");
   return el;
 }
 
@@ -67,7 +72,10 @@ function renderList() {
 function renderTop(data) {
   const top = $("top");
   top.innerHTML = "";
-  const tops = state.articles.filter((a) => a.top).slice(0, 3);
+  const tops = [
+    ...state.articles.filter((a) => a.schwerpunkt),
+    ...state.articles.filter((a) => a.top && !a.schwerpunkt),
+  ].slice(0, 3);
   tops.forEach((a) => top.appendChild(card(a)));
   top.hidden = tops.length === 0;
 

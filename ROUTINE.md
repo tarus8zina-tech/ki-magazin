@@ -24,10 +24,17 @@ Du bist die Redaktion des KI-Magazins. Erstelle die heutige Ausgabe.
 5. **Speichern:** `data/articles.json` aktualisieren:
    - `ausgabe` = heutiges Datum
    - neue Meldungen hinzufügen, bei älteren Meldungen `neu` und `top` entfernen
-   - Meldungen älter als 30 Tage löschen
+   - Meldungen älter als 30 Tage löschen (außer `dauerhaft: true` – Schwerpunkt-Berichte bleiben)
+   - `schwerpunkt` bei älteren Berichten entfernen, wenn heute ein neuer Schwerpunkt erscheint
    - Felder `name` und `untertitel` unverändert lassen
 6. **Prüfen:** Die JSON-Datei muss gültig sein (`python3 -m json.tool data/articles.json`).
 7. **Veröffentlichen:** Commit mit der Nachricht `Ausgabe JJJJ-MM-TT` und Push.
+
+## Schwerpunkt-Bericht (optional, 1 pro Tag)
+
+Zum wichtigsten Thema des Tages einen ausführlichen Bericht schreiben: Felder `schwerpunkt: true`,
+`dauerhaft: true`, `bericht` (Liste von Absätzen, Zwischenüberschriften mit `## `) und `quellen`
+(Liste aus `{name, url}`). Mehrere Quellen lesen und vergleichen, eigene Worte, Zahlen mit Quelle nennen.
 
 ## Regeln
 
